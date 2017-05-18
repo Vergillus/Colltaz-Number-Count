@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\mert.yilmaz\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): warning C4101: 'p': unreferenced local variable
+c:\users\mert.yilmaz\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): warning C4101: 'np': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\mert.yilmaz\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\mert.yilmaz\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
